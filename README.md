@@ -13,8 +13,9 @@ The following papers are to be cited in the bibliography whenever the database i
 
 - E. Cheng, P. Burton, J. Burton, A. Joseski, and I. Burnett, “Rmit3dv: Pre-announcement of a creative commons uncompressed HD 3D video database,” in Fourth International Workshop on Quality of Multimedia Experience, pp. 212–217, July 2012.
 
-
+----------------------------------------------------
 ## MoDi3D:   Motion  and  Disparity  based  3D video quality evaluator
+----------------------------------------------------
 If you are using MoDi_3D code, please cite this paper.
 
 ### Citation
